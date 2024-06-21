@@ -1,0 +1,70 @@
+C:\Users\Alexander\Desktop\CarService\CarService\bin\Debug\net7.0-windows\CarService.exe
+C:\Users\Alexander\Desktop\CarService\CarService\bin\Debug\net7.0-windows\CarService.deps.json
+C:\Users\Alexander\Desktop\CarService\CarService\bin\Debug\net7.0-windows\CarService.runtimeconfig.json
+C:\Users\Alexander\Desktop\CarService\CarService\bin\Debug\net7.0-windows\CarService.dll
+C:\Users\Alexander\Desktop\CarService\CarService\bin\Debug\net7.0-windows\CarService.pdb
+C:\Users\Alexander\Desktop\CarService\CarService\obj\Debug\net7.0-windows\CarService.csproj.AssemblyReference.cache
+C:\Users\Alexander\Desktop\CarService\CarService\obj\Debug\net7.0-windows\CarService.csproj.GenerateResource.cache
+C:\Users\Alexander\Desktop\CarService\CarService\obj\Debug\net7.0-windows\CarService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\Desktop\CarService\CarService\obj\Debug\net7.0-windows\CarService.AssemblyInfoInputs.cache
+C:\Users\Alexander\Desktop\CarService\CarService\obj\Debug\net7.0-windows\CarService.AssemblyInfo.cs
+C:\Users\Alexander\Desktop\CarService\CarService\obj\Debug\net7.0-windows\CarService.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\CarService\CarService\obj\Debug\net7.0-windows\CarService.dll
+C:\Users\Alexander\Desktop\CarService\CarService\obj\Debug\net7.0-windows\refint\CarService.dll
+C:\Users\Alexander\Desktop\CarService\CarService\obj\Debug\net7.0-windows\CarService.pdb
+C:\Users\Alexander\Desktop\CarService\CarService\obj\Debug\net7.0-windows\CarService.genruntimeconfig.cache
+C:\Users\Alexander\Desktop\CarService\CarService\obj\Debug\net7.0-windows\ref\CarService.dll
+C:\Users\Alexander\Desktop\CarService\CarService\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\Alexander\Desktop\CarService\CarService\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Alexander\Desktop\CarService\CarService\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Alexander\Desktop\CarService\CarService\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Alexander\Desktop\CarService\CarService\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Alexander\Desktop\CarService\CarService\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Alexander\Desktop\CarService\CarService\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Alexander\Desktop\CarService\CarService\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Alexander\Desktop\CarService\CarService\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Alexander\Desktop\CarService\CarService\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Alexander\Desktop\CarService\CarService\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Alexander\Desktop\CarService\CarService\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Alexander\Desktop\CarService\CarService\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Alexander\Desktop\CarService\CarService\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Alexander\Desktop\CarService\CarService\bin\Debug\net7.0-windows\MySqlConnector.dll
+C:\Users\Alexander\Desktop\CarService\CarService\bin\Debug\net7.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Alexander\Desktop\CarService\CarService\obj\Debug\net7.0-windows\CarService.csproj.CopyComplete
+C:\Users\Alexander\Desktop\CarService\CarService\obj\Debug\net7.0-windows\CarService.MainForm.resources
+C:\Users\Alexander\Desktop\CarService\CarService\obj\Debug\net7.0-windows\CarService.ClientsForm.resources
+D:\1. YandexDisk\Обучение Алексея\Для Алексея\Проекты\Автосервис\CarService\CarService\bin\Debug\net7.0-windows\CarService.exe
+D:\1. YandexDisk\Обучение Алексея\Для Алексея\Проекты\Автосервис\CarService\CarService\bin\Debug\net7.0-windows\CarService.deps.json
+D:\1. YandexDisk\Обучение Алексея\Для Алексея\Проекты\Автосервис\CarService\CarService\bin\Debug\net7.0-windows\CarService.runtimeconfig.json
+D:\1. YandexDisk\Обучение Алексея\Для Алексея\Проекты\Автосервис\CarService\CarService\bin\Debug\net7.0-windows\CarService.dll
+D:\1. YandexDisk\Обучение Алексея\Для Алексея\Проекты\Автосервис\CarService\CarService\bin\Debug\net7.0-windows\CarService.pdb
+D:\1. YandexDisk\Обучение Алексея\Для Алексея\Проекты\Автосервис\CarService\CarService\bin\Debug\net7.0-windows\Humanizer.dll
+D:\1. YandexDisk\Обучение Алексея\Для Алексея\Проекты\Автосервис\CarService\CarService\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\1. YandexDisk\Обучение Алексея\Для Алексея\Проекты\Автосервис\CarService\CarService\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\1. YandexDisk\Обучение Алексея\Для Алексея\Проекты\Автосервис\CarService\CarService\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\1. YandexDisk\Обучение Алексея\Для Алексея\Проекты\Автосервис\CarService\CarService\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\1. YandexDisk\Обучение Алексея\Для Алексея\Проекты\Автосервис\CarService\CarService\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\1. YandexDisk\Обучение Алексея\Для Алексея\Проекты\Автосервис\CarService\CarService\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\1. YandexDisk\Обучение Алексея\Для Алексея\Проекты\Автосервис\CarService\CarService\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\1. YandexDisk\Обучение Алексея\Для Алексея\Проекты\Автосервис\CarService\CarService\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\1. YandexDisk\Обучение Алексея\Для Алексея\Проекты\Автосервис\CarService\CarService\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\1. YandexDisk\Обучение Алексея\Для Алексея\Проекты\Автосервис\CarService\CarService\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+D:\1. YandexDisk\Обучение Алексея\Для Алексея\Проекты\Автосервис\CarService\CarService\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\1. YandexDisk\Обучение Алексея\Для Алексея\Проекты\Автосервис\CarService\CarService\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+D:\1. YandexDisk\Обучение Алексея\Для Алексея\Проекты\Автосервис\CarService\CarService\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+D:\1. YandexDisk\Обучение Алексея\Для Алексея\Проекты\Автосервис\CarService\CarService\bin\Debug\net7.0-windows\MySqlConnector.dll
+D:\1. YandexDisk\Обучение Алексея\Для Алексея\Проекты\Автосервис\CarService\CarService\bin\Debug\net7.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+D:\1. YandexDisk\Обучение Алексея\Для Алексея\Проекты\Автосервис\CarService\CarService\obj\Debug\net7.0-windows\CarService.csproj.AssemblyReference.cache
+D:\1. YandexDisk\Обучение Алексея\Для Алексея\Проекты\Автосервис\CarService\CarService\obj\Debug\net7.0-windows\CarService.ClientsForm.resources
+D:\1. YandexDisk\Обучение Алексея\Для Алексея\Проекты\Автосервис\CarService\CarService\obj\Debug\net7.0-windows\CarService.MainForm.resources
+D:\1. YandexDisk\Обучение Алексея\Для Алексея\Проекты\Автосервис\CarService\CarService\obj\Debug\net7.0-windows\CarService.csproj.GenerateResource.cache
+D:\1. YandexDisk\Обучение Алексея\Для Алексея\Проекты\Автосервис\CarService\CarService\obj\Debug\net7.0-windows\CarService.GeneratedMSBuildEditorConfig.editorconfig
+D:\1. YandexDisk\Обучение Алексея\Для Алексея\Проекты\Автосервис\CarService\CarService\obj\Debug\net7.0-windows\CarService.AssemblyInfoInputs.cache
+D:\1. YandexDisk\Обучение Алексея\Для Алексея\Проекты\Автосервис\CarService\CarService\obj\Debug\net7.0-windows\CarService.AssemblyInfo.cs
+D:\1. YandexDisk\Обучение Алексея\Для Алексея\Проекты\Автосервис\CarService\CarService\obj\Debug\net7.0-windows\CarService.csproj.CoreCompileInputs.cache
+D:\1. YandexDisk\Обучение Алексея\Для Алексея\Проекты\Автосервис\CarService\CarService\obj\Debug\net7.0-windows\CarService.csproj.CopyComplete
+D:\1. YandexDisk\Обучение Алексея\Для Алексея\Проекты\Автосервис\CarService\CarService\obj\Debug\net7.0-windows\CarService.dll
+D:\1. YandexDisk\Обучение Алексея\Для Алексея\Проекты\Автосервис\CarService\CarService\obj\Debug\net7.0-windows\refint\CarService.dll
+D:\1. YandexDisk\Обучение Алексея\Для Алексея\Проекты\Автосервис\CarService\CarService\obj\Debug\net7.0-windows\CarService.pdb
+D:\1. YandexDisk\Обучение Алексея\Для Алексея\Проекты\Автосервис\CarService\CarService\obj\Debug\net7.0-windows\CarService.genruntimeconfig.cache
+D:\1. YandexDisk\Обучение Алексея\Для Алексея\Проекты\Автосервис\CarService\CarService\obj\Debug\net7.0-windows\ref\CarService.dll

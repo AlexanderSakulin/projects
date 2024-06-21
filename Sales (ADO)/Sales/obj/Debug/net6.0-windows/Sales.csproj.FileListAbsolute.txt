@@ -1,0 +1,151 @@
+D:\Обучение\C#\Sales\Sales\bin\Debug\net6.0-windows\Sales.exe
+D:\Обучение\C#\Sales\Sales\bin\Debug\net6.0-windows\Sales.deps.json
+D:\Обучение\C#\Sales\Sales\bin\Debug\net6.0-windows\Sales.runtimeconfig.json
+D:\Обучение\C#\Sales\Sales\bin\Debug\net6.0-windows\Sales.dll
+D:\Обучение\C#\Sales\Sales\bin\Debug\net6.0-windows\Sales.pdb
+D:\Обучение\C#\Sales\Sales\obj\Debug\net6.0-windows\Sales.csproj.AssemblyReference.cache
+D:\Обучение\C#\Sales\Sales\obj\Debug\net6.0-windows\Sales.Forms.MainForm.resources
+D:\Обучение\C#\Sales\Sales\obj\Debug\net6.0-windows\Sales.csproj.GenerateResource.cache
+D:\Обучение\C#\Sales\Sales\obj\Debug\net6.0-windows\Sales.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\C#\Sales\Sales\obj\Debug\net6.0-windows\Sales.AssemblyInfoInputs.cache
+D:\Обучение\C#\Sales\Sales\obj\Debug\net6.0-windows\Sales.AssemblyInfo.cs
+D:\Обучение\C#\Sales\Sales\obj\Debug\net6.0-windows\Sales.csproj.CoreCompileInputs.cache
+D:\Обучение\C#\Sales\Sales\obj\Debug\net6.0-windows\Sales.dll
+D:\Обучение\C#\Sales\Sales\obj\Debug\net6.0-windows\refint\Sales.dll
+D:\Обучение\C#\Sales\Sales\obj\Debug\net6.0-windows\Sales.pdb
+D:\Обучение\C#\Sales\Sales\obj\Debug\net6.0-windows\Sales.genruntimeconfig.cache
+D:\Обучение\C#\Sales\Sales\obj\Debug\net6.0-windows\ref\Sales.dll
+D:\Обучение\C#\Sales\Sales\obj\Debug\net6.0-windows\Sales.Forms.CategoriesForm.resources
+D:\Обучение\C#\Sales\Sales\obj\Debug\net6.0-windows\Sales.Forms.CategoryForm.resources
+D:\Обучение\C#\Sales\Sales\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+D:\Обучение\C#\Sales\Sales\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+D:\Обучение\C#\Sales\Sales\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+D:\Обучение\C#\Sales\Sales\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Обучение\C#\Sales\Sales\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Обучение\C#\Sales\Sales\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Обучение\C#\Sales\Sales\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Обучение\C#\Sales\Sales\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Обучение\C#\Sales\Sales\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Обучение\C#\Sales\Sales\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Обучение\C#\Sales\Sales\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Обучение\C#\Sales\Sales\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Обучение\C#\Sales\Sales\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Обучение\C#\Sales\Sales\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Обучение\C#\Sales\Sales\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Обучение\C#\Sales\Sales\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+D:\Обучение\C#\Sales\Sales\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Обучение\C#\Sales\Sales\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+D:\Обучение\C#\Sales\Sales\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+D:\Обучение\C#\Sales\Sales\obj\Debug\net6.0-windows\Sales.csproj.CopyComplete
+D:\Обучение\C#\Sales\Sales\obj\Debug\net6.0-windows\Sales.Forms.ManufacturersForm.resources
+D:\Обучение\C#\Sales\Sales\obj\Debug\net6.0-windows\Sales.Forms.ManufacturerForm.resources
+D:\Обучение\C#\Sales\Sales\obj\Debug\net6.0-windows\Sales.Forms.PositionForm.resources
+D:\Обучение\C#\Sales\Sales\obj\Debug\net6.0-windows\Sales.Forms.PositionsForm.resources
+D:\Обучение\C#\Sales\Sales\obj\Debug\net6.0-windows\Sales.Forms.EmployeesForm.resources
+D:\Обучение\C#\Sales\Sales\obj\Debug\net6.0-windows\Sales.Forms.EmployeeForm.resources
+D:\Обучение\C#\Sales\Sales\obj\Debug\net6.0-windows\Sales.Forms.ClientForm.resources
+D:\Обучение\C#\Sales\Sales\obj\Debug\net6.0-windows\Sales.Forms.ClientsForm.resources
+D:\Обучение\C#\Sales\Sales\obj\Debug\net6.0-windows\Sales.Forms.ProductsForm.resources
+D:\Обучение\C#\Sales\Sales\obj\Debug\net6.0-windows\Sales.Forms.ProductForm.resources
+C:\Users\Alexander\Desktop\Sales (2)\Sales\Sales\bin\Debug\net6.0-windows\Sales.exe
+C:\Users\Alexander\Desktop\Sales (2)\Sales\Sales\bin\Debug\net6.0-windows\Sales.deps.json
+C:\Users\Alexander\Desktop\Sales (2)\Sales\Sales\bin\Debug\net6.0-windows\Sales.runtimeconfig.json
+C:\Users\Alexander\Desktop\Sales (2)\Sales\Sales\bin\Debug\net6.0-windows\Sales.dll
+C:\Users\Alexander\Desktop\Sales (2)\Sales\Sales\bin\Debug\net6.0-windows\Sales.pdb
+C:\Users\Alexander\Desktop\Sales (2)\Sales\Sales\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\Alexander\Desktop\Sales (2)\Sales\Sales\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Alexander\Desktop\Sales (2)\Sales\Sales\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+C:\Users\Alexander\Desktop\Sales (2)\Sales\Sales\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Alexander\Desktop\Sales (2)\Sales\Sales\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Alexander\Desktop\Sales (2)\Sales\Sales\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Alexander\Desktop\Sales (2)\Sales\Sales\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Alexander\Desktop\Sales (2)\Sales\Sales\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Alexander\Desktop\Sales (2)\Sales\Sales\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Alexander\Desktop\Sales (2)\Sales\Sales\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Alexander\Desktop\Sales (2)\Sales\Sales\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Alexander\Desktop\Sales (2)\Sales\Sales\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Alexander\Desktop\Sales (2)\Sales\Sales\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Alexander\Desktop\Sales (2)\Sales\Sales\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Alexander\Desktop\Sales (2)\Sales\Sales\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Alexander\Desktop\Sales (2)\Sales\Sales\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Alexander\Desktop\Sales (2)\Sales\Sales\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Alexander\Desktop\Sales (2)\Sales\Sales\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Alexander\Desktop\Sales (2)\Sales\Sales\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Alexander\Desktop\Sales (2)\Sales\Sales\obj\Debug\net6.0-windows\Sales.csproj.AssemblyReference.cache
+C:\Users\Alexander\Desktop\Sales (2)\Sales\Sales\obj\Debug\net6.0-windows\Sales.Forms.CategoriesForm.resources
+C:\Users\Alexander\Desktop\Sales (2)\Sales\Sales\obj\Debug\net6.0-windows\Sales.Forms.CategoryForm.resources
+C:\Users\Alexander\Desktop\Sales (2)\Sales\Sales\obj\Debug\net6.0-windows\Sales.Forms.ClientForm.resources
+C:\Users\Alexander\Desktop\Sales (2)\Sales\Sales\obj\Debug\net6.0-windows\Sales.Forms.ClientsForm.resources
+C:\Users\Alexander\Desktop\Sales (2)\Sales\Sales\obj\Debug\net6.0-windows\Sales.Forms.EmployeeForm.resources
+C:\Users\Alexander\Desktop\Sales (2)\Sales\Sales\obj\Debug\net6.0-windows\Sales.Forms.EmployeesForm.resources
+C:\Users\Alexander\Desktop\Sales (2)\Sales\Sales\obj\Debug\net6.0-windows\Sales.Forms.MainForm.resources
+C:\Users\Alexander\Desktop\Sales (2)\Sales\Sales\obj\Debug\net6.0-windows\Sales.Forms.ManufacturerForm.resources
+C:\Users\Alexander\Desktop\Sales (2)\Sales\Sales\obj\Debug\net6.0-windows\Sales.Forms.ManufacturersForm.resources
+C:\Users\Alexander\Desktop\Sales (2)\Sales\Sales\obj\Debug\net6.0-windows\Sales.Forms.PositionForm.resources
+C:\Users\Alexander\Desktop\Sales (2)\Sales\Sales\obj\Debug\net6.0-windows\Sales.Forms.PositionsForm.resources
+C:\Users\Alexander\Desktop\Sales (2)\Sales\Sales\obj\Debug\net6.0-windows\Sales.Forms.ProductForm.resources
+C:\Users\Alexander\Desktop\Sales (2)\Sales\Sales\obj\Debug\net6.0-windows\Sales.Forms.ProductsForm.resources
+C:\Users\Alexander\Desktop\Sales (2)\Sales\Sales\obj\Debug\net6.0-windows\Sales.csproj.GenerateResource.cache
+C:\Users\Alexander\Desktop\Sales (2)\Sales\Sales\obj\Debug\net6.0-windows\Sales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\Desktop\Sales (2)\Sales\Sales\obj\Debug\net6.0-windows\Sales.AssemblyInfoInputs.cache
+C:\Users\Alexander\Desktop\Sales (2)\Sales\Sales\obj\Debug\net6.0-windows\Sales.AssemblyInfo.cs
+C:\Users\Alexander\Desktop\Sales (2)\Sales\Sales\obj\Debug\net6.0-windows\Sales.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\Sales (2)\Sales\Sales\obj\Debug\net6.0-windows\Sales.csproj.CopyComplete
+C:\Users\Alexander\Desktop\Sales (2)\Sales\Sales\obj\Debug\net6.0-windows\Sales.dll
+C:\Users\Alexander\Desktop\Sales (2)\Sales\Sales\obj\Debug\net6.0-windows\refint\Sales.dll
+C:\Users\Alexander\Desktop\Sales (2)\Sales\Sales\obj\Debug\net6.0-windows\Sales.pdb
+C:\Users\Alexander\Desktop\Sales (2)\Sales\Sales\obj\Debug\net6.0-windows\Sales.genruntimeconfig.cache
+C:\Users\Alexander\Desktop\Sales (2)\Sales\Sales\obj\Debug\net6.0-windows\ref\Sales.dll
+C:\Users\Alexander\Desktop\Sales (2)\Sales\Sales\obj\Debug\net6.0-windows\Sales.Forms.SalesForm.resources
+C:\Users\Alexander\Desktop\Sales (2)\Sales\Sales\obj\Debug\net6.0-windows\Sales.Forms.SaleForm.resources
+D:\1. YandexDisk\Копии рабочих столов\Август 2023\Sales (2)\Sales\Sales\bin\Debug\net6.0-windows\Sales.exe
+D:\1. YandexDisk\Копии рабочих столов\Август 2023\Sales (2)\Sales\Sales\bin\Debug\net6.0-windows\Sales.deps.json
+D:\1. YandexDisk\Копии рабочих столов\Август 2023\Sales (2)\Sales\Sales\bin\Debug\net6.0-windows\Sales.runtimeconfig.json
+D:\1. YandexDisk\Копии рабочих столов\Август 2023\Sales (2)\Sales\Sales\bin\Debug\net6.0-windows\Sales.dll
+D:\1. YandexDisk\Копии рабочих столов\Август 2023\Sales (2)\Sales\Sales\bin\Debug\net6.0-windows\Sales.pdb
+D:\1. YandexDisk\Копии рабочих столов\Август 2023\Sales (2)\Sales\Sales\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+D:\1. YandexDisk\Копии рабочих столов\Август 2023\Sales (2)\Sales\Sales\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+D:\1. YandexDisk\Копии рабочих столов\Август 2023\Sales (2)\Sales\Sales\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+D:\1. YandexDisk\Копии рабочих столов\Август 2023\Sales (2)\Sales\Sales\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\1. YandexDisk\Копии рабочих столов\Август 2023\Sales (2)\Sales\Sales\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\1. YandexDisk\Копии рабочих столов\Август 2023\Sales (2)\Sales\Sales\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+D:\1. YandexDisk\Копии рабочих столов\Август 2023\Sales (2)\Sales\Sales\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\1. YandexDisk\Копии рабочих столов\Август 2023\Sales (2)\Sales\Sales\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+D:\1. YandexDisk\Копии рабочих столов\Август 2023\Sales (2)\Sales\Sales\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\1. YandexDisk\Копии рабочих столов\Август 2023\Sales (2)\Sales\Sales\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\1. YandexDisk\Копии рабочих столов\Август 2023\Sales (2)\Sales\Sales\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\1. YandexDisk\Копии рабочих столов\Август 2023\Sales (2)\Sales\Sales\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+D:\1. YandexDisk\Копии рабочих столов\Август 2023\Sales (2)\Sales\Sales\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+D:\1. YandexDisk\Копии рабочих столов\Август 2023\Sales (2)\Sales\Sales\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\1. YandexDisk\Копии рабочих столов\Август 2023\Sales (2)\Sales\Sales\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\1. YandexDisk\Копии рабочих столов\Август 2023\Sales (2)\Sales\Sales\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+D:\1. YandexDisk\Копии рабочих столов\Август 2023\Sales (2)\Sales\Sales\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+D:\1. YandexDisk\Копии рабочих столов\Август 2023\Sales (2)\Sales\Sales\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+D:\1. YandexDisk\Копии рабочих столов\Август 2023\Sales (2)\Sales\Sales\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+D:\1. YandexDisk\Копии рабочих столов\Август 2023\Sales (2)\Sales\Sales\obj\Debug\net6.0-windows\Sales.csproj.AssemblyReference.cache
+D:\1. YandexDisk\Копии рабочих столов\Август 2023\Sales (2)\Sales\Sales\obj\Debug\net6.0-windows\Sales.Forms.CategoriesForm.resources
+D:\1. YandexDisk\Копии рабочих столов\Август 2023\Sales (2)\Sales\Sales\obj\Debug\net6.0-windows\Sales.Forms.CategoryForm.resources
+D:\1. YandexDisk\Копии рабочих столов\Август 2023\Sales (2)\Sales\Sales\obj\Debug\net6.0-windows\Sales.Forms.ClientForm.resources
+D:\1. YandexDisk\Копии рабочих столов\Август 2023\Sales (2)\Sales\Sales\obj\Debug\net6.0-windows\Sales.Forms.ClientsForm.resources
+D:\1. YandexDisk\Копии рабочих столов\Август 2023\Sales (2)\Sales\Sales\obj\Debug\net6.0-windows\Sales.Forms.EmployeeForm.resources
+D:\1. YandexDisk\Копии рабочих столов\Август 2023\Sales (2)\Sales\Sales\obj\Debug\net6.0-windows\Sales.Forms.EmployeesForm.resources
+D:\1. YandexDisk\Копии рабочих столов\Август 2023\Sales (2)\Sales\Sales\obj\Debug\net6.0-windows\Sales.Forms.MainForm.resources
+D:\1. YandexDisk\Копии рабочих столов\Август 2023\Sales (2)\Sales\Sales\obj\Debug\net6.0-windows\Sales.Forms.ManufacturerForm.resources
+D:\1. YandexDisk\Копии рабочих столов\Август 2023\Sales (2)\Sales\Sales\obj\Debug\net6.0-windows\Sales.Forms.ManufacturersForm.resources
+D:\1. YandexDisk\Копии рабочих столов\Август 2023\Sales (2)\Sales\Sales\obj\Debug\net6.0-windows\Sales.Forms.PositionForm.resources
+D:\1. YandexDisk\Копии рабочих столов\Август 2023\Sales (2)\Sales\Sales\obj\Debug\net6.0-windows\Sales.Forms.PositionsForm.resources
+D:\1. YandexDisk\Копии рабочих столов\Август 2023\Sales (2)\Sales\Sales\obj\Debug\net6.0-windows\Sales.Forms.ProductForm.resources
+D:\1. YandexDisk\Копии рабочих столов\Август 2023\Sales (2)\Sales\Sales\obj\Debug\net6.0-windows\Sales.Forms.ProductsForm.resources
+D:\1. YandexDisk\Копии рабочих столов\Август 2023\Sales (2)\Sales\Sales\obj\Debug\net6.0-windows\Sales.Forms.SaleForm.resources
+D:\1. YandexDisk\Копии рабочих столов\Август 2023\Sales (2)\Sales\Sales\obj\Debug\net6.0-windows\Sales.Forms.SalesForm.resources
+D:\1. YandexDisk\Копии рабочих столов\Август 2023\Sales (2)\Sales\Sales\obj\Debug\net6.0-windows\Sales.csproj.GenerateResource.cache
+D:\1. YandexDisk\Копии рабочих столов\Август 2023\Sales (2)\Sales\Sales\obj\Debug\net6.0-windows\Sales.GeneratedMSBuildEditorConfig.editorconfig
+D:\1. YandexDisk\Копии рабочих столов\Август 2023\Sales (2)\Sales\Sales\obj\Debug\net6.0-windows\Sales.AssemblyInfoInputs.cache
+D:\1. YandexDisk\Копии рабочих столов\Август 2023\Sales (2)\Sales\Sales\obj\Debug\net6.0-windows\Sales.AssemblyInfo.cs
+D:\1. YandexDisk\Копии рабочих столов\Август 2023\Sales (2)\Sales\Sales\obj\Debug\net6.0-windows\Sales.csproj.CoreCompileInputs.cache
+D:\1. YandexDisk\Копии рабочих столов\Август 2023\Sales (2)\Sales\Sales\obj\Debug\net6.0-windows\Sales.csproj.CopyComplete
+D:\1. YandexDisk\Копии рабочих столов\Август 2023\Sales (2)\Sales\Sales\obj\Debug\net6.0-windows\Sales.dll
+D:\1. YandexDisk\Копии рабочих столов\Август 2023\Sales (2)\Sales\Sales\obj\Debug\net6.0-windows\refint\Sales.dll
+D:\1. YandexDisk\Копии рабочих столов\Август 2023\Sales (2)\Sales\Sales\obj\Debug\net6.0-windows\Sales.pdb
+D:\1. YandexDisk\Копии рабочих столов\Август 2023\Sales (2)\Sales\Sales\obj\Debug\net6.0-windows\Sales.genruntimeconfig.cache
+D:\1. YandexDisk\Копии рабочих столов\Август 2023\Sales (2)\Sales\Sales\obj\Debug\net6.0-windows\ref\Sales.dll
